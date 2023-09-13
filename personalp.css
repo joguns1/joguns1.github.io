@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: linear-gradient(to bottom right,orange, blue);
+}
+h3, p{
+    text-align: center;
+}
+
+#heading{
+    text-align: center;
+}
+a{
+    color:white;
+}
+a:hover{
+    color:black;
+
+}
